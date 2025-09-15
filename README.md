@@ -2,6 +2,8 @@
 YOU ARE WELCOME TO MAKE EDITS AND USE BUT IS NOT ALLOWED TO CLAIM AS YOUR OWN AND RESELL THIS
 a FiveM script that allows you to post permissions in channels with easy and without any bots needed
 
+edits for webhook to be made in server.lua
+
 command to post webhook `postwebhook`
 
 you can edit this in server.lua line 47
