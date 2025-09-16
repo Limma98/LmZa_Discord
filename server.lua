@@ -44,6 +44,7 @@ function SendDiscordEmbed()
 end
 
 -- Example command to trigger the embed
-RegisterCommand("postwebhook", function(source, args, rawCommand)  -- command to post the webhook
+RegisterCommand("postwebhook", function(source, args, rawCommand)  -- command to post the webhook (this command can be changed to anything aslong as it stays within brackets)
     SendDiscordEmbed()
+
 end, true) -- Set to true for admin-only access
