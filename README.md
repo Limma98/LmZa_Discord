@@ -19,7 +19,7 @@ image examples below
 <img width="631" height="506" alt="Screenshot 2025-09-15 093331" src="https://github.com/user-attachments/assets/3593e2b9-9b6b-4f20-9ccb-f002acdece4a" />
 
 
-for more info join our public discord
+for more info join our public discord..
 
 https://discord.gg/v7DM6AfxPw
 
