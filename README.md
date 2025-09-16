@@ -1,6 +1,6 @@
 # LmZa_Discord
 YOU ARE WELCOME TO MAKE EDITS AND USE BUT IS NOT ALLOWED TO CLAIM AS YOUR OWN AND RESELL THIS
-a FiveM script that allows you to post permissions in channels with easy and without any bots needed
+a FiveM script that allows you to post permissions in channels with easy and without any bots needed.
 
 edits for webhook to be made in server.lua
 
